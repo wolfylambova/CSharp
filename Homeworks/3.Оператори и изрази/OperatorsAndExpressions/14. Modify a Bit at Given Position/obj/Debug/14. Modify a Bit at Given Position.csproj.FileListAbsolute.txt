@@ -1,0 +1,1 @@
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\14. Modify a Bit at Given Position\bin\Debug\_14.Modify_a_Bit_at_Given_Position.exe.config

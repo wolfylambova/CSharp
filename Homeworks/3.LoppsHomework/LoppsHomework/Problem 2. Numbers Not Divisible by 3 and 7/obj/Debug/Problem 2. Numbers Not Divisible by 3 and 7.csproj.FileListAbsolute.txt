@@ -1,0 +1,11 @@
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\bin\Debug\Problem_2.Numbers_Not_Divisible_by_3_and_7.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 2. Numbers Not Divisible by 3 and 7\obj\Debug\Problem 2. Numbers Not Divisible by 3 and 7.csprojResolveAssemblyReference.cache

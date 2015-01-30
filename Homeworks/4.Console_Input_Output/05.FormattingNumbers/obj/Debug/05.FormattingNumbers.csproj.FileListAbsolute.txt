@@ -1,0 +1,9 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio 2013\Projects\04.Console_Input_Output\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\04.Console_Input_Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+D:\SoftUni\Visual Studio 2013\Projects\04.Console_Input_Output\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

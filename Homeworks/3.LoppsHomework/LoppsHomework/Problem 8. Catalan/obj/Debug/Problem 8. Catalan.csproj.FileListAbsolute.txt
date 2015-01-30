@@ -1,0 +1,9 @@
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 8. Catalan\bin\Debug\Problem_8.Catalan.exe.config
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 8. Catalan\obj\Debug\Problem 8. Catalan.csprojResolveAssemblyReference.cache
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 8. Catalan\bin\Debug\Problem_8.Catalan.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 8. Catalan\bin\Debug\Problem_8.Catalan.pdb
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 8. Catalan\obj\Debug\Problem_8.Catalan.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 8. Catalan\obj\Debug\Problem_8.Catalan.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 8. Catalan\bin\Debug\Problem_8.Catalan.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 8. Catalan\obj\Debug\Problem_8.Catalan.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 8. Catalan\obj\Debug\Problem_8.Catalan.pdb

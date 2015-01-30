@@ -1,0 +1,3 @@
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

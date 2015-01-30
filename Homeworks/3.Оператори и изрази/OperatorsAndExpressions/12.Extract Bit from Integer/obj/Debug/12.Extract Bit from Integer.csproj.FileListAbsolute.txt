@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\12.Extract Bit from Integer\bin\Debug\12.Extract Bit from Integer.exe.config

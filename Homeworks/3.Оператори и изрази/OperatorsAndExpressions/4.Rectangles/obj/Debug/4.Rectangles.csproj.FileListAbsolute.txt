@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\4.Rectangles\bin\Debug\4.Rectangles.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\4.Rectangles\bin\Debug\4.Rectangles.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\4.Rectangles\bin\Debug\4.Rectangles.pdb
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\4.Rectangles\obj\Debug\4.Rectangles.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\4.Rectangles\obj\Debug\4.Rectangles.pdb

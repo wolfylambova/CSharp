@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\10.PointInsideCircleOutsideOfARectangle\bin\Debug\10.PointInsideCircleOutsideOfARectangle.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\bin\Debug\10.PointInsideCircleOutsideOfARectangle.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\obj\Debug\10.PointInsideCircleOutsideOfARectangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\bin\Debug\10.PointInsideCircleOutsideOfARectangle.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\bin\Debug\10.PointInsideCircleOutsideOfARectangle.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\obj\Debug\10.PointInsideCircleOutsideOfARectangle.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\obj\Debug\10.PointInsideCircleOutsideOfARectangle.pdb

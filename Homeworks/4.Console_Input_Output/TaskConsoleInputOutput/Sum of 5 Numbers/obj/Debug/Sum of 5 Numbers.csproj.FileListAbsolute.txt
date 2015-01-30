@@ -1,0 +1,6 @@
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe.config
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\Sum of 5 Numbers\bin\Debug\Sum of 5 Numbers.pdb
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.csprojResolveAssemblyReference.cache
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\Sum of 5 Numbers\obj\Debug\Sum of 5 Numbers.pdb

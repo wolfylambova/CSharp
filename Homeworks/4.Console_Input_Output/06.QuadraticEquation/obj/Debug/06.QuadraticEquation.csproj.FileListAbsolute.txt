@@ -1,0 +1,12 @@
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\Teodor\Desktop\SoftUni\C# Basic Course\HomeWork\4. Console Input Output\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\04.Console_Input_Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb
+D:\SoftUni\Visual Studio 2013\Projects\04.Console_Input_Output\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+D:\SoftUni\Visual Studio 2013\Projects\04.Console_Input_Output\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

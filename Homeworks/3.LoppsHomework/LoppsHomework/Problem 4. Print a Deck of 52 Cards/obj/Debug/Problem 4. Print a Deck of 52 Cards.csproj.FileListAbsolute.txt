@@ -1,0 +1,9 @@
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe.config
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem 4. Print a Deck of 52 Cards.csprojResolveAssemblyReference.cache
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\LoppsHomework\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 4. Print a Deck of 52 Cards\bin\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\LoppsHomework\LoppsHomework\Problem 4. Print a Deck of 52 Cards\obj\Debug\Problem_4.Print_a_Deck_of_52_Cards.pdb

@@ -1,0 +1,6 @@
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 6.N!divideK!\bin\Debug\Problem 6.N!divideK!.exe.config
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 6.N!divideK!\obj\Debug\Problem 6.N!divideK!.csprojResolveAssemblyReference.cache
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 6.N!divideK!\bin\Debug\Problem 6.N!divideK!.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 6.N!divideK!\bin\Debug\Problem 6.N!divideK!.pdb
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 6.N!divideK!\obj\Debug\Problem 6.N!divideK!.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 6.N!divideK!\obj\Debug\Problem 6.N!divideK!.pdb

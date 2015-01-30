@@ -1,0 +1,5 @@
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 7. CalculateFactFormula\bin\Debug\Problem_7.CalculateFactFormula.exe.config
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 7. CalculateFactFormula\bin\Debug\Problem_7.CalculateFactFormula.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 7. CalculateFactFormula\bin\Debug\Problem_7.CalculateFactFormula.pdb
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 7. CalculateFactFormula\obj\Debug\Problem_7.CalculateFactFormula.exe
+C:\Users\Johny Bravo\Documents\Visual Studio 2013\Projects\LoppsHomework\Problem 7. CalculateFactFormula\obj\Debug\Problem_7.CalculateFactFormula.pdb

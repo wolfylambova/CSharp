@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\9.Trapezoids\bin\Debug\9.Trapezoids.exe.config

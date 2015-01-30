@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.pdb
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\2.GravitationOnTheMoon\bin\Debug\2.GravitationOnTheMoon.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\2.GravitationOnTheMoon\obj\Debug\2.GravitationOnTheMoon.pdb

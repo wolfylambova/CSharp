@@ -1,0 +1,6 @@
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\TaskConsoleInputOutput\bin\Debug\TaskConsoleInputOutput.exe.config
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\TaskConsoleInputOutput\bin\Debug\TaskConsoleInputOutput.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\TaskConsoleInputOutput\bin\Debug\TaskConsoleInputOutput.pdb
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\TaskConsoleInputOutput\obj\Debug\TaskConsoleInputOutput.csprojResolveAssemblyReference.cache
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\TaskConsoleInputOutput\obj\Debug\TaskConsoleInputOutput.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\TaskConsoleInputOutput\TaskConsoleInputOutput\obj\Debug\TaskConsoleInputOutput.pdb

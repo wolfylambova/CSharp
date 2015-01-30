@@ -1,0 +1,3 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\3.DivideBy7and5\bin\Debug\3.DivideBy7and5.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\3.DivideBy7and5\obj\Debug\3.DivideBy7and5.csprojResolveAssemblyReference.cache
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\3.DivideBy7and5\bin\Debug\3.DivideBy7and5.exe.config

@@ -1,0 +1,5 @@
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\11\bin\Debug\11.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\11\bin\Debug\11.exe
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\11\bin\Debug\11.pdb
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\11\obj\Debug\11.exe
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\11\obj\Debug\11.pdb

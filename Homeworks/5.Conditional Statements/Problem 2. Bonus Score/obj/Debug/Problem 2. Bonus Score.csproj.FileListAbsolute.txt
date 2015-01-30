@@ -1,0 +1,5 @@
+c:\users\johny bravo\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe.config
+c:\users\johny bravo\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. Bonus Score\bin\Debug\Problem_2.Bonus_Score.pdb
+c:\users\johny bravo\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.exe
+c:\users\johny bravo\documents\visual studio 2013\Projects\Conditional Statements\Problem 2. Bonus Score\obj\Debug\Problem_2.Bonus_Score.pdb

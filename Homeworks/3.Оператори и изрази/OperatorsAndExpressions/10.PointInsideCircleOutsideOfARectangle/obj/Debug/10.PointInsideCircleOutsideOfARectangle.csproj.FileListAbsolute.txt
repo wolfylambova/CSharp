@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\10.PointInsideCircleOutsideOfARectangle\bin\Debug\10.PointInsideCircleOutsideOfARectangle.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\3.Оператори и изрази\OperatorsAndExpressions\10.PointInsideCircleOutsideOfARectangle\bin\Debug\10.PointInsideCircleOutsideOfARectangle.exe.config

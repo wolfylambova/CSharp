@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.pdb
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.exe
+c:\users\user\documents\visual studio 2013\Projects\ComparisonOperators\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.pdb
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\6.Four-DigitNumber\bin\Debug\6.Four-DigitNumber.exe.config
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.exe
+D:\SoftUni\Visual Studio 2013\Projects\my homework\OperatorsAndExpressions\6.Four-DigitNumber\obj\Debug\6.Four-DigitNumber.pdb
